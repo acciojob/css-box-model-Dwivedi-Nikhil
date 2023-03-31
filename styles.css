@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.content {
+	border:15px solid blue;
+	margin: 20px;
+	color:lightblue;
+	background-color:blue
+	padding:50px
+	width:300px
+}
