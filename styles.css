@@ -4,7 +4,8 @@
 	border:15px solid blue;
 	margin: 20px;
 	color:lightblue;
-	background-color:blue
-	padding:50px
-	width:300px
+	background-color:blue;
+	padding:50px;
+	width:300px;
+	box-sizing: border-box;
 }
